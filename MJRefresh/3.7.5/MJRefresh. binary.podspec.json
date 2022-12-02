@@ -1,0 +1,21 @@
+{
+    "authors": {
+        "panfeis": "1173742025@qq.com"
+    }, 
+    "homepage": "https://github.com/songpanfei/MJRefresh.git", 
+    "license": "MIT", 
+    "name": "MJRefresh", 
+    "platforms": {
+        "ios": "8.0"
+    }, 
+    "public_header_files": "*.h", 
+    "requires_arc": true, 
+    "source": {
+        "git": "https://github.com/songpanfei/MJRefresh.git", 
+        "tag": "3.7.5"
+    }, 
+    "source_files": "*.h", 
+    "summary": "MJRefresh", 
+    "vendored_frameworks": "MJRefresh.framework", 
+    "version": "3.7.5"
+}
